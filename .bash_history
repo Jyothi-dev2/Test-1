@@ -160,3 +160,165 @@ git add .
 git commit -m "added the new file"
 git push
 git push --set-upstream origin test
+clear
+git --version
+git status
+git add .
+git commit -m "added the file1"
+git push
+clear
+git clone https://github.com/Jyothi-dev2/jyothi.git
+cd Jyothi
+ll
+git config --global user.name Jyothi
+git confid --global user.email Jyothi123@gmail.com
+git remote add origin https://github.com/Jyothi-dev2/jyothi.git
+echo "added the line" >>new file
+git add
+git add .
+git push
+git branch
+git push
+ll
+git checkout test
+ll
+echo "added the new file" >>test.txt
+ll
+git add .
+git commit -m "added the new file"
+git push
+clear
+git --version
+mkdir test7
+cd test7/
+ll
+git
+clear
+git status
+yum remove git
+clear
+git --version
+clear
+yum install git -y
+clear
+git --version
+mkdir test
+cd test/
+ll
+git
+clear
+git status
+git slash/bin
+git --help
+git-*
+git restart
+exit
+clear
+git --version
+mkdir test
+cd test/
+ll
+clear
+git --version
+yum remove git
+git --version
+clear
+gitbranch
+git branch
+clear
+yum install git -y
+clear
+git --version
+mkdir test
+cd test/
+ll
+git
+clear
+git status
+clear
+git status
+git switch branch
+git switch main
+git branch
+git switch main
+git branch -m main
+git status
+git branch
+git switch main
+clear
+git status
+cd ..
+git status
+git clone https://github.com/Jyothi-dev2/Git-Branch.git
+clear
+cd git-branches
+git branch
+git branch -r
+git branch -m main
+git init
+clear
+git branch
+git branch -m main
+clear
+git status
+git ls
+ls
+touch file1.txt
+ll
+echo "hello world" >>file1.txt
+cat file1.txt
+git status
+git add file1.txt
+git status
+git commit -m "modified one file with contant"
+git config --global user.name John
+git config --global user.email John123@gmail.com
+git origin
+git log
+git remote
+git branch
+git remote add origin https://github.com/Jyothi-dev2/Git-Branch.git
+git remote
+git status
+ll
+git add
+git add .
+git commit -m "added a new file"
+git push
+ git push --set-upstream origin main
+clear
+mkdir test
+cd test/
+ll
+git
+clear
+git status
+git add 
+git commit -m "added a new file"
+git push
+ git push --set-upstream origin main
+git fetch
+git pull
+clear
+git push
+git push --set-upstream origin main
+clear
+git --version
+mkdir folder1
+cd
+ll
+git
+clear
+git status
+git commit -a
+ll
+clear
+exit
+clear
+git status
+c ..
+git status
+clear
+git status
+cd ..
+git status
